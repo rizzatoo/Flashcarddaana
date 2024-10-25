@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    '|Esportes Olímpicos',
+    'O que é ginastica artistica?',
+    'Ginastica artistica é um conjunto de exercícios corporais sistematizados, aplicados com fins competitivos, em que se conjugam a força, a agilidade e a elasticidade.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Esportes',
+    'O que é o Voleibol?',
+    'É um esporte de popularidade significativa em grande parte do mundo, e está presente em muitos torneios e eventos esportivos de âmbito internacionais, tais como os Jogos Olímpicos e os Jogos Panamericanos.'
 )
 
 criaCartao(
