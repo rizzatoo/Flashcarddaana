@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Esportes',
-    'Qual a definição da Ginastica Artistica?',
+    'Como funciona a Ginastica Artistica?',
     'A ginástica artística, também conhecida no Brasil por ginástica olímpica, é uma modalidade de ginástica onde os atletas realizam um conjunto de exercícios em aparelhos oficiais. Movimentos estes que revelam força, agilidade, flexibilidade, coordenação, equilíbrio e controle do corpo.'
 )
 
