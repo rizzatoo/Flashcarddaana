@@ -1,6 +1,6 @@
 criaCartao(
     '|Esportes Olímpicos',
-    'O que é ginastica artistica?',
+    'O que é Ginastica Artistica?',
     'Ginastica artistica é um conjunto de exercícios corporais sistematizados, aplicados com fins competitivos, em que se conjugam a força, a agilidade e a elasticidade.'
 )
 
@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Esportes',
+    'Qual a definição da Ginastica Artistica?',
+    'A ginástica artística, também conhecida no Brasil por ginástica olímpica, é uma modalidade de ginástica onde os atletas realizam um conjunto de exercícios em aparelhos oficiais. Movimentos estes que revelam força, agilidade, flexibilidade, coordenação, equilíbrio e controle do corpo.'
 )
 
 criaCartao(
