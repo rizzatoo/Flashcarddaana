@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Definição do conjunto de esportes',
-    'como funciona o conjunto de esportes',
+    'Como funciona o conjunto de esportes',
     'Esportes Coletivos são jogos oficializados, praticados por duas ou mais pessoas em oposição à equipe adversária. Eles podem ser realizados em seus diferentes ambientes como o campo, gelo, quadra, areia, entre outros.'
 )
