@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Esportes',
-    'Como funciona a Ginastica Olímpica?',
-    'Ginástica olímpica é uma modalidade de ginástica onde os atletas realizam um conjunto de exercícios em aparelhos oficiais. Movimentos estes que revelam força, agilidade, flexibilidade, coordenação, equilíbrio e controle do corpo.'
+    'Quais são os principais atletas da ginástica artística?',
+    'Além de Rebeca e Flavinha, as ginastas Jade Barbosa, Júlia Soares e Lorrane Oliveira somam ao time brasileiro. No masculino, Diogo Soares, que levou ouro no Pan-Americano de Ginástica Artística em 2024, é o outro atleta que representa o país nos Jogos.'
 )
 
 criaCartao(
