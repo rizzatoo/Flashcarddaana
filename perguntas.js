@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Definição do conjunto de esportes',
+    'como funciona o conjunto de esportes',
+    'Esportes Coletivos são jogos oficializados, praticados por duas ou mais pessoas em oposição à equipe adversária. Eles podem ser realizados em seus diferentes ambientes como o campo, gelo, quadra, areia, entre outros.'
 )
